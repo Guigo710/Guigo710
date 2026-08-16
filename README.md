@@ -1,5 +1,5 @@
 💫 About Me:
-<span>&#x1f1e7;&#x1f1f7;</span>👨‍💻 Estudante de programação com foco em desenvolvimento Back-end, interessado em criar aplicações, APIs e soluções de automação.<br>⚙️ Tenho grande interesse em automação de processos e automação industrial, buscando unir programação, tecnologia e eficiência operacional.<br><br><br><span>&#x1F1FA;&#x1F1F8;</span>👨‍💻 Programming student focused on Back-end development, interested in building applications, APIs, and automation solutions.<br>⚙️ I have a strong interest in process automation and industrial automation, aiming to combine programming, technology, and operational efficiency.
+🇧🇷 Brazil👨‍💻 Estudante de programação com foco em desenvolvimento Back-end, interessado em criar aplicações, APIs e soluções de automação.<br>⚙️ Tenho grande interesse em automação de processos e automação industrial, buscando unir programação, tecnologia e eficiência operacional.<br><br><br>👨‍💻 Programming student focused on Back-end development, interested in building applications, APIs, and automation solutions.<br>⚙️ I have a strong interest in process automation and industrial automation, aiming to combine programming, technology, and operational efficiency.
 
 
 ## 🌐 Socials:
